@@ -55,4 +55,6 @@ Send AJAX request with different data types and confirm receiving a response (co
 
 - switch the data type requested and make the page work with that
 - handle the user clicking something more than once, only making the ajax call when necessary
+- late binding with response
+
 
